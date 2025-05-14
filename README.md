@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/blindvibedev-coingeckomcp-badge.png)](https://mseep.ai/app/blindvibedev-coingeckomcp)
+
 # 🚀 CoinGecko API Server MCP
 
 <div align="center">
